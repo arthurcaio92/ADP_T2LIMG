@@ -1,11 +1,11 @@
 # ADPT2FTS
 
-Codes related to the paper "Autonomous Data Partitioning for Type-2 Fuzzy Set Based Time Series".
+Codes related to the paper "XXXXXXXXXXX".
 
 The package contains:
 
 1. The original time series data adopted in this paper;
-2. All ADPT2FTS python codes;
+2. All ADP-T2LIMG python codes;
 
 Please cite this paper if the code helps.
 
