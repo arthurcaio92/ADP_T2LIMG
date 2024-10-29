@@ -1,4 +1,4 @@
-# ADPT2FTS
+# ADP-T2LIMG
 
 Codes related to the paper "XXXXXXXXXXX".
 
