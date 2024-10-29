@@ -1,6 +1,6 @@
 # ADP-T2LIMG
 
-Codes related to the paper "XXXXXXXXXXX".
+Codes related to the paper "A data-driven interval type-2 fuzzy forecasting approach for load forecasting".
 
 The package contains:
 
